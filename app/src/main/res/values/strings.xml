@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Datos personales</string>
+
+    <!-- Idioma -->
+    <string name="idioma">Idioma:</string>
+    <string-array name="idiomas" translatable="false">
+        <item>Español</item>
+        <item>English</item>
+        <item>Français</item>
+    </string-array>
+
+    <!-- Controles -->
+    <string name="hint_nombre">Escriba aquí su nombre</string>
+    <string name="hint_apellidos">Escriba aquí sus apellidos</string>
+    <string name="hint_edad">Ingrese su edad</string>
+    <string name="hombre">Hombre</string>
+    <string name="mujer">Mujer</string>
+    <string name="tiene_hijos">¿Tiene hijos?</string>
+    <string name="mostrar_datos">Mostrar Datos</string>
+    <string name="reiniciar">Reiniciar</string>
+
+    <string-array name="estados_civiles">
+        <item>Solter@</item>
+        <item>Casad@</item>
+        <item>Separad@</item>
+        <item>Viud@</item>
+        <item>Otr@</item>
+    </string-array>
+
+    <!-- Mensaje de error -->
+    <string name="campo_nombre">nombre</string>
+    <string name="campo_apellidos">apellidos</string>
+    <string name="campo_edad">edad</string>
+    <string name="conjuncion_y">y</string>
+    <string name="falta_escribir">Te falta escribir %1$s</string>
+
+    <!-- Notificación -->
+    <string name="resultado">%1$s, %2$s, %3$s, %4$s. %5$s y %6$s.</string>
+    <string name="mayor_de_edad">mayor de edad</string>
+    <string name="menor_de_edad">menor de edad</string>
+    <string name="genero_hombre">hombre</string>
+    <string name="genero_mujer">mujer</string>
+    <string name="genero_sin_indicar">persona</string>
+    <string name="con_hijos">con hijos</string>
+    <string name="sin_hijos">sin hijos</string>
+</resources>

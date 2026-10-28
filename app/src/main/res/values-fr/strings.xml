@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Données personnelles</string>
+
+    <!-- Langue -->
+    <string name="idioma">Langue :</string>
+
+    <!-- Contrôles -->
+    <string name="hint_nombre">Écrivez ici votre prénom</string>
+    <string name="hint_apellidos">Écrivez ici votre nom de famille</string>
+    <string name="hint_edad">Entrez votre âge</string>
+    <string name="hombre">Homme</string>
+    <string name="mujer">Femme</string>
+    <string name="tiene_hijos">Avez-vous des enfants ?</string>
+    <string name="mostrar_datos">Afficher les données</string>
+    <string name="reiniciar">Réinitialiser</string>
+
+    <string-array name="estados_civiles">
+        <item>Célibataire</item>
+        <item>Marié(e)</item>
+        <item>Séparé(e)</item>
+        <item>Veuf/Veuve</item>
+        <item>Autre</item>
+    </string-array>
+
+    <!-- Message d erreur -->
+    <string name="campo_nombre">prénom</string>
+    <string name="campo_apellidos">nom de famille</string>
+    <string name="campo_edad">âge</string>
+    <string name="conjuncion_y">et</string>
+    <string name="falta_escribir">Veuillez écrire votre %1$s</string>
+
+    <!-- Notification -->
+    <string name="resultado">%1$s, %2$s, %3$s, %4$s. %5$s et %6$s.</string>
+    <string name="mayor_de_edad">majeur(e)</string>
+    <string name="menor_de_edad">mineur(e)</string>
+    <string name="genero_hombre">homme</string>
+    <string name="genero_mujer">femme</string>
+    <string name="genero_sin_indicar">personne</string>
+    <string name="con_hijos">avec enfants</string>
+    <string name="sin_hijos">sans enfants</string>
+</resources>

@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Personal data</string>
+
+    <!-- Language -->
+    <string name="idioma">Language:</string>
+
+    <!-- Controls -->
+    <string name="hint_nombre">Write your first name here</string>
+    <string name="hint_apellidos">Write your surnames here</string>
+    <string name="hint_edad">Enter your age</string>
+    <string name="hombre">Male</string>
+    <string name="mujer">Female</string>
+    <string name="tiene_hijos">Do you have children?</string>
+    <string name="mostrar_datos">Show data</string>
+    <string name="reiniciar">Reset</string>
+
+    <string-array name="estados_civiles">
+        <item>Single</item>
+        <item>Married</item>
+        <item>Separated</item>
+        <item>Widowed</item>
+        <item>Other</item>
+    </string-array>
+
+    <!-- Error message -->
+    <string name="campo_nombre">first name</string>
+    <string name="campo_apellidos">surnames</string>
+    <string name="campo_edad">age</string>
+    <string name="conjuncion_y">and</string>
+    <string name="falta_escribir">You still need to write your %1$s</string>
+
+    <!-- Notification -->
+    <string name="resultado">%1$s, %2$s, %3$s, %4$s. %5$s and %6$s.</string>
+    <string name="mayor_de_edad">of legal age</string>
+    <string name="menor_de_edad">underage</string>
+    <string name="genero_hombre">male</string>
+    <string name="genero_mujer">female</string>
+    <string name="genero_sin_indicar">person</string>
+    <string name="con_hijos">with children</string>
+    <string name="sin_hijos">without children</string>
+</resources>
